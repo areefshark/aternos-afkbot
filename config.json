@@ -1,5 +1,5 @@
 {
-	"ip":"YOUR_ATERNOS_SERVER_IP",
-	"port": "YOUR_ATERNOS_SERVER_PORT",
-	"name": "BOT_NAME"
+	"ip":"SlimyServer.aternos.me:45855",
+	"port": "45855",
+	"name": "Arif's_24/7_Aternos_Bot"
 }
